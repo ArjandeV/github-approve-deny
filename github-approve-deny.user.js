@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name GitHub Approve/Deny
-// @namespace http://github.com/cisox/github-approve-deny
+// @namespace http://github.com/arjandev/github-approve-deny
 // @description Adds Approve and Deny buttons to GitHub pull requests and parses pull request comments for Approve/Deny text.
-// @match https://github.com/*/*/pull/*
-// @match http://github.com/*/*/pull/*
-// @match https://www.github.com/*/*/pull/*
-// @match http://www.github.com/*/*/pull/*
+// @match https://git.internal.gracenote.com/*/*/pull/*
+// @match http://git.internal.gracenote.com/*/*/pull/*
+// @match https://www.git.internal.gracenote.com/*/*/pull/*
+// @match http://www.git.internal.gracenote.com/*/*/pull/*
 // @version 1.1
-// @icon https://raw.github.com/cisox/github-approve-deny/master/github.png
-// @downloadURL https://raw.github.com/cisox/github-approve-deny/master/github-approve-deny.user.js
-// @updateURL https://raw.github.com/cisox/github-approve-deny/master/github-approve-deny.user.js
+// @icon https://raw.github.com/arjandev/github-approve-deny/master/github.png
+// @downloadURL https://raw.github.com/arjandev/github-approve-deny/master/github-approve-deny.user.js
+// @updateURL https://raw.github.com/arjandev/github-approve-deny/master/github-approve-deny.user.js
 // ==/UserScript==
 
 (function() {
